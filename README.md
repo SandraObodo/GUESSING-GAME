@@ -1,2 +1,2 @@
-# GUESSING-GAME
-This is my first game
+# MY FIRST GAME
+This is my first game called guessing game
